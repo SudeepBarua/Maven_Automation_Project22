@@ -33,5 +33,6 @@ public class T2_stringComparison extends Reusable_Annotations {
         //define expected string text
         String expectedYahooSignInButtonText = "Sign In";
         ReusableActions_Loggers.compareExpectedAndActualText(expectedYahooSignInButtonText, actualYahooSignInButtonText,logger);
+        //RANDOM COMMENT
     }//end of test 2
 }//end of java class
