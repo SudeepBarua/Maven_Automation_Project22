@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test name="Chase Credit Card Website" preserve-order="true">
+        <classes>
+            <class name="actionItem6_ChaseTestCases.actionItem6_chaseClass1" />
+            <class name="actionItem6_ChaseTestCases.actionItem6_chaseClass2" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
